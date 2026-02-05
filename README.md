@@ -1,6 +1,6 @@
 # Python_Translator
 
-SYSTEM GUIDE 
+# SYSTEM GUIDE 
 
 1. User Input: You type an English sentence into your Python console.
 2. API Request: Your code takes that text and sends it to Google's servers along with your API Key.
